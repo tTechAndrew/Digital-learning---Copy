@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-item img {
+    filter: brightness(60%)
+}
+
+.fa-star,
+.fa-star-half-stroke {
+    color: gold;
+    font-size: 20px;
+}
